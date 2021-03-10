@@ -1,0 +1,29 @@
+{
+  "name": "ZTKpro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "tsc && node .",
+    "fakeMining": "miningFake.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZTKpro/BlockChain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZTKpro/BlockChain/issues"
+  },
+  "homepage": "https://github.com/ZTKpro/BlockChain#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.33",
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
