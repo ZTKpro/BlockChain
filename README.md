@@ -1,6 +1,6 @@
 # Blockchain in Node.js
 
-A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScript.
+Blockchain and cryptocurrency wallet implemented in Node.js and TypeScript.
 
 ![blockchain](https://user-images.githubusercontent.com/48288156/209471495-7dd99c9d-1154-45ec-a86f-d8d170096f72.gif)
 
